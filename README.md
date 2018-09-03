@@ -58,5 +58,3 @@ This supervised-learning project use 5 different supervised learning algorithms 
 
 * Georgia Tech CS7641 Machine Learning
 
-# Supervised-Learning
-# Supervised-Learning
